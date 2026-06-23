@@ -1,0 +1,13 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "JapApp",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "JapApp",
+  "start_url": "/",
+  "theme_color": "#e63946",
+  "id": "JapApp",
+  "description": "JapApp"
+}
